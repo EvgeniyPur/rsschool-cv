@@ -48,3 +48,6 @@ if (isPrime(num)) {
 ## Languages
 * Russian - native speaker.
 * English - A2 (B1 in process…)
+
+___
+![school logo](https://raw.githubusercontent.com/rolling-scopes-school/rs.school-site/758a8c4678563a5d0560d74b354b34c69428cbfc/docs/images/rs_school_js.svg)
